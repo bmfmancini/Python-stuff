@@ -1,0 +1,19 @@
+
+#This program take input from the user asking which letter they want to print
+# then the user is asked how many times they would like it to be printed 
+
+
+a = input("enter letter" )
+b = input("enter the amount of times" )
+
+b = int(b)
+
+def print_n(a,b):
+ while b != 0:
+
+     b = b  -1
+     print (a)
+
+
+print_n(a,b)
+
