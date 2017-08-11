@@ -1,0 +1,29 @@
+### THis is a simple program to print all of the differnt data types
+
+
+
+###Declare variables with differnt data types
+word  = "hello"
+number1 = 1
+number2 = 2.25
+
+
+
+print ("This is a string")
+
+print (word)
+
+print ("using print type to verify this is a string")
+print (type(word))
+
+print ("this is a interger")
+print (number1)
+print ("using print type to confirm this is a interger")
+print (type(number1))
+print ("this is a float")
+print (number2)
+print ("using print type to confirm this is a float")
+print (type(number2))
+
+
+
